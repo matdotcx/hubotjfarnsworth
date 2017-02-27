@@ -19,6 +19,7 @@
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
+    "hubot-standup-alarm": "^0.1.0",
     "hubot-trollbot": "^0.1.1",
     "hubot-tube-status": "^0.1.2"
   },
