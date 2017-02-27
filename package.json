@@ -1,23 +1,26 @@
 {
-  "name": "hubotjfarnsworth",
+  "name": "farnsworth",
   "version": "0.0.0",
   "private": true,
-  "author": "Diego Iaconelli <diaconelli@pivotal.io>",
+  "author": "Diego Iaconelli <diego@iaconelli.org>",
   "description": "Good News, Everyone!",
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^2.13.2",
+    "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.6",
+    "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
-    "hubot-help": "^0.2.0",
-    "hubot-heroku-keepalive": "^1.0.2",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
-    "hubot-scripts": "^2.17.2",
+    "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.3.2"
+    "hubot-slack": "^3.3.0",
+    "hubot-trollbot": "^0.1.1",
+    "hubot-tube-status": "^0.1.2"
   },
   "engines": {
     "node": "4.x"
